@@ -1,7 +1,7 @@
 {
   "name": "csit",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@react-pdf-viewer/core": "^3.6.0",
     "@testing-library/jest-dom": "^5.16.5",
